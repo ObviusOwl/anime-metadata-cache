@@ -1,0 +1,27 @@
+.page_content{
+    margin: 1em 2em;
+}
+
+.nice_table{
+    border-collapse: collapse;
+ }
+.nice_table td, .nice_table th{
+    padding: .2em 1em;
+}
+.nice_table th{
+    text-align: left;
+}
+.nice_table tr:nth-child(even) {
+    background: #f5f5f5
+}
+.nice_table tr:hover {
+    background: #e4e9ec;
+}
+.nice_table a {
+    color: rgb(16, 62, 179);
+    text-decoration: none;
+}
+.nice_table a:hover {
+    color: rgb(16, 62, 179);
+    text-decoration:underline;
+}
