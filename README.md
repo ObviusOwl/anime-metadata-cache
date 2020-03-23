@@ -24,6 +24,11 @@ provided by [scudlee](https://forum.kodi.tv/showthread.php?tid=142835) and
 together regular expressions and modifying big XML files with object oriented
 PHP development and RDMS maintenance, which I am familiar with.
 
+The metatdata is fetched from theses services (all rights reserved to the respective communities):
+
+- [anidb.net]( https://anidb.net/ )
+- [TheTVDB]( https://thetvdb.com/ )
+
 # Installation
 
 The software is installed like most php web applications. Care is taken, to keep
